@@ -1,4 +1,4 @@
-onst perguntas = [
+const perguntas = [
   { materia: "Matemática", pergunta: "O que é uma função do 2º grau?", resposta: "É uma função polinomial do tipo f(x) = ax² + bx + c, com a ≠ 0." },
   { materia: "Física", pergunta: "O que é movimento uniformemente variado (MUV)?", resposta: "É o movimento com aceleração constante." },
   { materia: "Química", pergunta: "O que é ligação iônica?", resposta: "É a ligação entre metais e ametais com transferência de elétrons." },
