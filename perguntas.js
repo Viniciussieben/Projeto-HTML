@@ -7,4 +7,4 @@ const perguntas = [
   { materia: "Geografia", pergunta: "O que é globalização?", resposta: "É o processo de integração econômica, cultural e social entre os países." },
   { materia: "Português", pergunta: "O que é uma oração subordinada?", resposta: "É a oração que depende de outra para ter sentido completo." },
   { materia: "Inglês", pergunta: "O que significa 'used to'?", resposta: "Significa 'costumava', usado para hábitos do passado." },
-  { materia: "Filosofia", pergunta: "Qual é o foco da filosofia moderna?", resposta: "O foco é o sujeito, a razão e o conhecimento científico." }
+  { materia: "Filosofia", pergunta: "Qual é o foco da filosofia moderna?", resposta: "O foco é o sujeito, a razão e o conhecimento científico." ]
